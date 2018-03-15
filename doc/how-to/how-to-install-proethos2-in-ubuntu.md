@@ -1,7 +1,7 @@
 How to install Proethos2 in Ubuntu 14.04 LTS
 ============================================
 
-This document will help you how install Proethos2 platform in a Ubuntu Server 16.04 standard installation.
+This document will help you how install Proethos2 platform in a Ubuntu Server 14.04 standard installation.
 
 Remember some tips:
 - We STRONGLY recommend that you use Proethos2 in a Linux Server;
